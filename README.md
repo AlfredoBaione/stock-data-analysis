@@ -1,2 +1,2 @@
 ﻿# stock-data-analysis
-THis repository provides the rapidminer processes 
+This repository contains the RapidMiner processes used to analyze the trends of various stock indices in the US market.
